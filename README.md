@@ -1,3 +1,18 @@
+# Repository moved
+
+This project has moved to the GEISA Community repository:
+
+https://github.com/geisa/community/tree/main/demonstrations/application-isolation-security-systemd-demo
+
+This repository is retained for historical commit and external-link
+continuity.
+
+Please submit future issues and changes through:
+
+https://github.com/geisa/community
+
+---
+
 # secure-systemd-poc
 
 Proof of concept demonstration for securing/isolating systemd
